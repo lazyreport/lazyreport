@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="./assets/Agrabah.png" alt="">
+<img src="./assets/header.png" alt="">
 
 <!--
 **lazyreport/lazyreport** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
